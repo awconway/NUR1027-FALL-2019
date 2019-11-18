@@ -3,7 +3,7 @@ title: 'Week 10: Qualitative Approaches to Research'
 description:
   'This is an introduction to qualitative research methodology used in health sciences.'
 prev: /09quantdesc
-next: null
+next: /11qualdesc
 type: chapter
 id: 11
 ---

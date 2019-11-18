@@ -2,19 +2,13 @@
 title: 'Week 11: Qualitative Description'
 description:
   'We continue our exploration of qualitative research by examining qualitative descriptive research. It is a design that is commonly used in nursing and health sciences research.'
-prev: null
-next: null
+prev: /10quantdesc
+next: /12phenom
 type: chapter
 id: 12
 ---
 
 <exercise id="1" title="Introduction">
-
-Hi, I'm Kristina Chang, and welcome to Week 11 of NUR 1027, where we will be focusing on the Qualitative Descriptive approach. I'm a RN and a Research Coordinator working with Aaron at Toronto General Hospital. I completed my thesis-based Master's of Science in Nursing at McMaster University, and my Bachelor's of Nursing at Western. 
-
-My [master's thesis](https://macsphere.mcmaster.ca/handle/11375/24214) was a qualitative study that employed the persona-scenario method, a user-centred design, and the qualitative descriptive approach for data analysis to focus on patient and public engagement in research, particularly among community-dwelling older adults with multiple chronic conditions. With my background knowledge and experience, I look forward to reviewing the approach with you and the interesting discussions that may emerge from its use in nursing and health research.       
-
-This week we continue our exploration of qualitative research by examining Qualitative Descriptive research - a design that is commonly used in nursing and health sciences research. 
 
 <qu>The aim of Qualitative Description is to describe a phenomenom, or to understand the who, what, where and why of an event or experience.</qu> 
 
@@ -23,8 +17,6 @@ This week we continue our exploration of qualitative research by examining Quali
 1) Understand and critique qualitative descriptive design and its fundamental features and characteristics.
 
 2) Critically appraise and interpret findings from qualitative descriptive studies and consider relevance to practice. 
-
-This week we will be to understand, as well as critique the qualitative descriptive approach and its key characteristics, and to consider the relevance and applicability of qualitative descriptives studies in our practice.
 
 
 # Key terms and concepts 
@@ -41,19 +33,17 @@ Some key terms to keep in mind while we review the information from this week wi
 
 <sub>[Sandelowski, 2010, p.77](http://resolver.scholarsportal.info.myaccess.library.utoronto.ca/resolve/01606891/v33i0001/77_wianqdr.xml)</sub>
 
-Unlike other qualitative research methods, there's a paucity of information in the existing literature to classify what is qualitative description. For the novice researcher, this level of uncertainty can be challenging to develop a firm grasp of the approach. But the lack of clear boundaries is not to say that qualitative descriptive studies don't have defining features or characteristics. Nor does it mean that you can use the term as all-encompassing to disguise poorly designed and conducted studies. 
+Unlike other qualitative research methods, there's a paucity of information in the existing literature to classify what is qualitative description. This level of uncertainty can be challenging to develop a firm grasp of the approach. But the lack of clear boundaries is not to say that qualitative descriptive studies don't have defining features or characteristics. Nor does it mean that you can use the term as all-encompassing to disguise poorly designed and conducted studies. 
 
-As [Sandelowski (2010)](http://resolver.scholarsportal.info.myaccess.library.utoronto.ca/resolve/01606891/v33i0001/77_wianqdr.xml) commented, she viewed qualitative description as a distributed residual category. The lack of clear boundaries with the approach allows for more innovative and thoughtful combinations of congruent methods and techniques to potentially develop re-invent new methods.   
+As [Sandelowski (2010)](http://resolver.scholarsportal.info.myaccess.library.utoronto.ca/resolve/01606891/v33i0001/77_wianqdr.xml) commented, she viewed qualitative description as a distributed residual category. The lack of clear boundaries with the approach allows for more innovative and thoughtful combinations of congruent methods and techniques to potentially develop or re-invent new methods.   
 
 </exercise>
 
 
 <exercise id="2" title="Generic Qualitative Research">
 
-<qu>Generic qualitative research is not guided by an explicit or established set of philosphic assumptions in the form of one of the known qualitative methodologies.</qu>
-<sub>[Caelli et al., 2003, p.2](http://www.ualberta.ca/~iiqm/backissues/2_2/pdf/caellietal.pdf)</sub>
 
-To review, generic qualitative research doesn't conform to any of the established qualitative approaches [(Kahlke, 2014)](http://journals.sagepub.com/doi/pdf/10.1177/160940691401300119). Caelli et al. [(2003, p.2)](http://www.ualberta.ca/~iiqm/backissues/2_2/pdf/caellietal.pdf) defines generic qualitative research as qualitative research that's "not guided by an explicit or established set of philosphic assumptions in the form of one of the known qualitative methodlogies".
+'Generic' qualitative research doesn't conform to any of the established qualitative approaches [(Kahlke, 2014)](http://journals.sagepub.com/doi/pdf/10.1177/160940691401300119).  [Caelli et al.](http://www.ualberta.ca/~iiqm/backissues/2_2/pdf/caellietal.pdf) defines generic qualitative research as qualitative research that's "not guided by an explicit or established set of philosphic assumptions in the form of one of the known qualitative methodologies" (2003, p.2). 'Known' qualitative methodologies would include, for example, phenomenology or grounded theory.
 
 
 <img src="/genqual.png" height="400px" width="100%" />
@@ -68,8 +58,9 @@ It's important to recognize the distinction between the two (qualitative descrip
 
 <exercise id="3" title="A Useful Alternative">
 
-This reading by [Neergaard et al. (2009)](https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/1471-2288-9-52) summarizes the qualitative descriptive approach, and will help you to understand some of the advantages and potential limitations to the approach in health research.  
+This reading summarizes the qualitative descriptive approach, and will help you to understand some of the advantages and potential limitations to the approach in health research.  
 
+[Qualitative description - the poor cousin of health research?](https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/1471-2288-9-52)
 
 </exercise>
 
@@ -131,7 +122,10 @@ The final product that the approach aims to produce is a description of the part
 
 <exercise id="5" title="Addressing Misconceptions">
 
-Sandelowski provides some clarification in these [two](http://resolver.scholarsportal.info.myaccess.library.utoronto.ca/resolve/01606891/v23i0004/334_whtqd.xml) [articles](http://resolver.scholarsportal.info.myaccess.library.utoronto.ca/resolve/01606891/v33i0001/77_wianqdr.xml) on the common misconceptions of Qualitative Description, including the theoretical orientation, classification, and data analysis and interpretation of Qualiative Descriptive research. 
+Sandelowski provides some clarification in these two articles on the common misconceptions of Qualitative Description, including the theoretical orientation, classification, and data analysis and interpretation of Qualiative Descriptive research. 
+
+- [Whatever happened to qualitative description?](http://resolver.scholarsportal.info.myaccess.library.utoronto.ca/resolve/01606891/v23i0004/334_whtqd.xml) 
+- [What's in a name? Qualitative description revisited](http://resolver.scholarsportal.info.myaccess.library.utoronto.ca/resolve/01606891/v33i0001/77_wianqdr.xml)
 
 </exercise>
 
@@ -274,10 +268,11 @@ While Qualitative Description has gained critiques for being vague and low-infer
 
 <exercise id="11" title="Learning Activity">
 
-Please read the [following](https://journals.lww.com/jcnjournal/fulltext/2009/07000/a_qualitative_descriptive_study_of_the_work_of.9.aspx) [articles](https://bmcpregnancychildbirth.biomedcentral.com/articles/10.1186/1471-2393-12-149) and consider the following critical appraisal questions:  
+Consider the following questions as you read these example studies that used qualiative descriptive designs:  
 
+- [A Qualitative Descriptive Study of the Work of Adherence to a Chronic Heart Failure Regimen: Patient and Physician Perspectives](https://journals.lww.com/jcnjournal/fulltext/2009/07000/a_qualitative_descriptive_study_of_the_work_of.9.aspx)
+- [Canadian adolescent mothers’ perceptions of influences on breastfeeding decisions: a qualitative descriptive study](https://bmcpregnancychildbirth.biomedcentral.com/articles/10.1186/1471-2393-12-149)
 
-# Critical Appraisal Questions
 
 
 ## Are the findings valid?
@@ -310,12 +305,6 @@ Caelli, K., Ray, L. & Mill, J. (2003). “Clear as Mud‟: Toward a greater clar
 
 Kahlke, R. (2014). Generic qualitative approaches: Pitfalls and benefits of methodological mixology. International Journal of Qualitative Methods, 13: 37-52. http://journals.sagepub.com/doi/pdf/10.1177/160940691401300119 
 
-Neergaard, M.A., Olesen, F., Andersen, R.S., & Sondergaard, J. (2009). Qualitative description-the poor cousin of health research? BMC Medical Research Methodology, 9 (52). doi:10.1186/1471-2288-9-52 or https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/1471-2288-9-52 
-
-Sandelowski, M. (2000). Whatever happened to qualitative description? Research in Nursing & Health, 34, 334-340. http://resolver.scholarsportal.info.myaccess.library.utoronto.ca/resolve/01606891/v23i0004/334_whtqd.xml 
-
-Sandelowski, M. (2010). What’s in a name? Qualitative description revisited. Research in Nursing and Health, 33, 77 – 84. http://resolver.scholarsportal.info.myaccess.library.utoronto.ca/resolve/01606891/v33i0001/77_wianqdr.xml
-
 Thorne, S., Reimer Kirkham, S., O’Flynn-Magee, K. (2004). The analytic challenge in interpretive description. International Journal of Qualitative Methods, 3(1), p. 1-11. https://journals.sagepub.com/doi/pdf/10.1177/160940690400300101 
 
 
@@ -329,5 +318,13 @@ Morse, Janice, M. (2000). Determining sample size. Qualitative Health Research, 
 
 Russell, C.K. & Gregory, D.M. (2003). Evaluation of qualitative research studies. Evidence Based Nursing, 6, 36-40. http://link.galegroup.com/apps/doc/A99696141/AONE?u=utoronto_main&sid=AONE&xid=e6042f22
 
+
+</exercise>
+
+<exercise id="13" title="Discussion">
+
+<a target="_parent" href="https://q.utoronto.ca/courses/113018/discussion_topics/344195">Link to discussions on Quercus</a>
+
+<qu>Note: If you are viewing this on the 'Student' mobile app, it is better to navigate back to the discussion section through the app rather than clicking on the link above.</qu>
 
 </exercise>

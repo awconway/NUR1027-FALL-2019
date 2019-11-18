@@ -2,7 +2,7 @@
 title: 'Week 12: Phenomenology'
 description:
   'Phenomenology, as a way of understanding human experiences, has earned a well-deserved respect and credibility in health sciences research, specifically in nursing research. '
-prev: null
+prev: /11qualdesc
 next: null
 type: chapter
 id: 13
@@ -21,11 +21,11 @@ Phenomenology, as a way of understanding human experiences, has earned a well-de
 
 </exercise>
 
-<exercise id="2" title="Guest lecture by Amy Bender">
+<exercise id="2" title="Guest lecture by Amy Bender" type="slides">
 
-<video playsinline controls height="500px" width="100%">
-    <source src="https://aconway.dev/images/phenom.mp4" type="video/mp4"/>
-</video>
+<iframe src="https://player.vimeo.com/video/373999068" width="100%" height="480" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+</exercise>
+
 
 </exercise>
 
