@@ -96,6 +96,13 @@ module.exports = {
                         },
                     },
                     `gatsby-remark-unwrap-images`,
+                    {
+                        resolve: `gatsby-source-filesystem`,
+                        options: {
+                            path: `${__dirname}/src/images`,
+                            name: 'images'
+                        }
+                    },
                 ],
             },
         },
