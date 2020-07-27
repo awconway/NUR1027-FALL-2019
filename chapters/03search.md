@@ -20,10 +20,14 @@ Having already explored the idea of evidence-informed practice and knowledge tra
 
 <exercise id="2" title="Webinar">
 
-View the webinar on searching for evidence presented by the faculty librarian, Mikaela Gray.
+A webinar on searching for evidence will be presented by the faculty librarian, Mikaela Gray.
 
+[Link](https://ca.bbcollab.com/guest/6854abe806c84600ba949111276d60c9) to webinar on BB Collaborate for September 22 at 12md.
+
+
+<!--
 <iframe src="https://ca-lti.bbcollab.com/recording/46b1bc3f2e704233bc01a7ebfa17f4e2" width="100%" height="550px" allowfullscreen></iframe> 
-
+-->
 </exercise>
 
 <exercise id="3" title="Formulating clinical questions">
@@ -43,12 +47,18 @@ These [step by step instructions](https://guides.library.utoronto.ca/comprehensi
 
 *Required*
 
-Craig, JV & Smyth, RL. (2012). The Evidence-based Practice Manual for Nurses (3rd ed.) Churchill Livingstone Elsevier. Chapter 2: How to ask the right question; Chapter 3: Searching the literature.
+Craig, JV & Dowding D. (2020). Evidence-based Practice in Nursing (4th ed.) Churchill Livingstone Elsevier. 
+
+- Chapter 2: How to ask the right question; 
+
+- Chapter 3: Searching the literature.
 
 
 *Additional*
 
-Gray, J.R., Grove, S.K. & Sutherland, S.  (2017). The Practice of Nursing Research (8th ed.) Chapter 7: Review of relevant literature (pp. 120 – 137).
+Gray, J.R., Grove, S.K. & Sutherland, S.  (2017). The Practice of Nursing Research (8th ed.) 
+
+- Chapter 7: Review of relevant literature (pp. 120 – 137).
 
 </exercise>
 
@@ -66,7 +76,7 @@ Identify an area in your practice that is a source of question or uncertainty - 
 
  Remember to respond to one of your peer’s posts!
 
-<a target="_parent" href="https://q.utoronto.ca/courses/113018/discussion_topics/344125">Link to discussions on Quercus</a>
+<a target="_parent" href="https://q.utoronto.ca/courses/161379/discussion_topics/">Link to discussions on Quercus</a>
 
 <qu>Note: If you are viewing this on the 'Student' mobile app, it is better to navigate back to the discussion section through the app rather than clicking on the link above.</qu>
 

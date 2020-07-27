@@ -83,9 +83,13 @@ In the previous exercises we have practiced refining a search strategy using the
 
 <exercise id="7" title="Using Covidence to manage search results">
 
-This is not a requirement, but you can view this brief webinar on how to use *Covidence* to manage the process of selecting which of the articles returned from a literature search are relevant to your question.
+This is not a requirement, but you can attend a brief webinar on how to use *Covidence* to manage the process of selecting which of the articles returned from a literature search are relevant to your question.
 
+[Link](https://ca.bbcollab.com/guest/5943f007ca6a4e83a394d01e1205cebf) to webinar on BB Collaborate for September 29 at 12md.
+
+<!--
 <iframe src="https://ca-lti.bbcollab.com/recording/9aa4fe76b82b4e5db1eaf865f5b9aa40" width="100%" height="550px" allowfullscreen></iframe> 
+-->
 
 <qu>Click <a href="https://onesearch.library.utoronto.ca/linkit/covidence">here</a> to access instructions for setting up a Covidence account through the University of Toronto.</qu>
 
@@ -103,7 +107,7 @@ This week you will each practice implementing your search strategy in indexed da
 
 **Remember to respond to one of your peer’s posts!**
 
-<a target="_parent" href="https://q.utoronto.ca/courses/113018/discussion_topics/344130">Link to discussions on Quercus</a>
+<a target="_parent" href="https://q.utoronto.ca/courses/161379/discussion_topics/">Link to discussions on Quercus</a>
 
 <qu>Note: If you are viewing this on the 'Student' mobile app, it is better to navigate back to the discussion section through the app rather than clicking on the link above.</qu>
 

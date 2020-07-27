@@ -204,7 +204,9 @@ Substantial progress has been made in ensuring that health professionals are cap
 
 <a href="https://sigmapubs-onlinelibrary-wiley-com.myaccess.library.utoronto.ca/doi/full/10.1111/j.1741-6787.2011.00230.x">Gerrish, K., Nolan, M., McDonnell, A., Tod, A., Kirshbaum, M., & Guillaume, L. (2012). Factors influencing advanced practice nurses’ ability to promote evidence‐based practice among frontline nurses. Worldviews on Evidence‐Based Nursing, 9(1), 30-39.</a>
 
-Craig, JV & Smyth, RL. (2012). The Evidence-based Practice Manual for Nurses (3rd ed.) Churchill Livingstone Elsevier. Chapter 1: Evidence-based Practice in Nursing.
+Craig, JV & Dowding D. (2020). Evidence-based Practice in Nursing (4th ed.) Churchill Livingstone Elsevier. 
+
+- Chapter 1: Evidence-based Practice in Nursing.
 
 
 
@@ -241,7 +243,7 @@ You may like to think about this in terms of providing some examples of research
 Each original post should be a maximum of 200 words. It's a good idea to use APA referencing for evidence cited in your posts, as this is what will be expected of you in the written assignments also.  You are also required to respond to at least one of your peer's posts. 
 
 
-<a target="_parent" href="https://q.utoronto.ca/courses/113018/discussion_topics/326843">Link to discussions on Quercus</a>
+<a target="_parent" href="https://q.utoronto.ca/courses/161379/discussion_topics/">Link to discussions on Quercus</a>
 
 <qu>Note: If you are viewing this on the 'Student' mobile app, it is better to navigate back to the discussion section through the app rather than clicking on the link above.</qu>
 

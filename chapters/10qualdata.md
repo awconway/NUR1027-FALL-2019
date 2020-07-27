@@ -20,7 +20,10 @@ View the recording presented by Danielle Just.
 
 **Required**
 
-Gray, J.R., Grove, S.K. & Sutherland, S.  (2017). The Practice of Nursing Research (8th ed.) Chapter 12: Qualitative research methods (pp. 255 – 283.) Chapter 15: Nonprobability sampling methods commonly applied in qualitative research (pp. 342 - 347); Sample size in qualitative research (pp. 351 – 353).
+Gray, J.R., Grove, S.K. & Sutherland, S.  (2017). The Practice of Nursing Research (8th ed.)
+
+- Chapter 12: Qualitative research methods (pp. 255 – 283.) 
+- Chapter 15: Nonprobability sampling methods commonly applied in qualitative research (pp. 342 - 347); Sample size in qualitative research (pp. 351 – 353).
 
 <a href="https://onlinelibrary-wiley-com.myaccess.library.utoronto.ca/doi/epdf/10.1111/j.1753-6405.2007.00141.x">Green, J., Willis, K., Hughes, E., Small, R., Welch, N., Gibbs, L. & Daly, J. (2007). Generating best evidence from qualitative research: the role of data analysis. Australian and New Zealand Journal of Public Health, 31(6), 545-550.</a>
 
@@ -44,7 +47,7 @@ Gray, J.R., Grove, S.K. & Sutherland, S.  (2017). The Practice of Nursing Resear
 <exercise id="3" title="Discussion">
 
 
-<a target="_parent" href="https://q.utoronto.ca/courses/113018/discussion_topics/344157">Link to discussions on Quercus</a>
+<a target="_parent" href="https://q.utoronto.ca/courses/161379/discussion_topics/">Link to discussions on Quercus</a>
 
 <qu>Note: If you are viewing this on the 'Student' mobile app, it is better to navigate back to the discussion section through the app rather than clicking on the link above.</qu>
 

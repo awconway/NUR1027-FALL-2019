@@ -249,12 +249,16 @@ d) How do these assumptions lead to criteria for judging the “goodness” of a
 
 **Required Reading**
 
-Gray, J.R., Grove, S.K. & Sutherland, S.  (2017). The Practice of Nursing Research (8th ed.) Chapter 3: Introduction to quantitative research (pp. 37 --45 [up to the end of the section on control vs. comparison groups]. 
+Gray, J.R., Grove, S.K. & Sutherland, S.  (2017). The Practice of Nursing Research (8th ed.) 
+Chapter 3: Introduction to quantitative research (pp. 37 --45 [up to the end of the section on control vs. comparison groups]. 
+
 Chapter 6: Objectives, questions, hypotheses and study variables (pp. 98 – 119.) 
 
-
 Chapter 10: Understanding quantitative research design (pp. 192 – 200 [up to the end of the section on types of validity]). 
-Lancaster, G.A. & Titman, A.C. (2012). Using evidence from quantitative studies. In J.V. Craig & R.L. Smyth (Eds.) The Evidence-based Practice Manual for Nurses (3rd ed.) (145 – 186). 
+
+Craig, JV & Dowding, D. (2020). Evidence-Based Practice in Nursing (4th ed.) Churchill Livingstone Elsevier.
+
+Chapter 5: Using evidence from quantitative studies.
 
 [Cochrane Handbook for Systematic Reviews of Interventions](http://handbook.cochrane.org/) Read sections 8.1, 8.2, and 8.4 on bias (Version 5.1 online).
 

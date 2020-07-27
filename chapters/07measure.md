@@ -358,7 +358,7 @@ Gray, J.R., Grove, S.K. & Sutherland, S.  (2017). The Practice of Nursing Resear
 
 <exercise id="24" title="Discussion">
 
-<a target="_parent" href="https://q.utoronto.ca/courses/113018/discussion_topics/344138">Link to discussions on Quercus</a>
+<a target="_parent" href="https://q.utoronto.ca/courses/161379/discussion_topics/">Link to discussions on Quercus</a>
 
 <qu>Note: If you are viewing this on the 'Student' mobile app, it is better to navigate back to the discussion section through the app rather than clicking on the link above.</qu>
 
