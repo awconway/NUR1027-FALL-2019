@@ -185,7 +185,7 @@ A landmark <a href="https://www.nejm.org/doi/full/10.1056/nejmsa022615" >study</
 
 Substantial progress has been made in ensuring that health professionals are capable users of evidence in their practice.  Recently, a consensus statement on core competencies in evidence-based practice for health professionals were developed. This resource may be helpful for you in future administration and leadership roles when advocating for support and resources required by nursing staff to be able to fulfill these competencies.
 
-<iframe src="https://www.aaronconway.info/web/viewer.html?file=%2FNUR1027/albarqouni.pdf" width="100%" height="1050px"></iframe>
+<iframe src="https://awconway.github.io/web/viewer.html?file=%2FNUR1027/albarqouni.pdf" width="100%" height="1050px"></iframe>
 
 </exercise>
 
@@ -213,7 +213,7 @@ Craig, JV & Dowding D. (2020). Evidence-based Practice in Nursing (4th ed.) Chur
 *Additional*
 
 
-<a href="https://www.aaronconway.info/NUR1027/bliss-holtz.pdf">Bliss-Holtz, J. (2007).  Evidence-based practice:  A primer for action.  Issues in Comprehensive Pediatric Nursing, 30(4), 165-182.</a>
+<a href="https://awconway.github.io/NUR1027/bliss-holtz.pdf">Bliss-Holtz, J. (2007).  Evidence-based practice:  A primer for action.  Issues in Comprehensive Pediatric Nursing, 30(4), 165-182.</a>
 
 <a href="https://journals-scholarsportal-info.myaccess.library.utoronto.ca/pdf/08943184/v25i0002/199_taenp.xml">Fawcett, J. (2012). Thoughts about evidence-based nursing practice. Nursing Science Quarterly, 25(2). 199-200.</a> 
 

@@ -240,7 +240,7 @@ c) What are the main assumptions about knowledge that underpin quantitative rese
 d) How do these assumptions lead to criteria for judging the “goodness” of a quantitative research report?
 
 
-<iframe src="https://www.aaronconway.info/web/viewer.html?file=%2FNUR1027/reed_physical_activity.pdf" width="100%" height="1050px"></iframe>
+<iframe src="https://awconway.github.io/web/viewer.html?file=%2FNUR1027/reed_physical_activity.pdf" width="100%" height="1050px"></iframe>
 
 
 </exercise>
@@ -256,7 +256,7 @@ Chapter 6: Objectives, questions, hypotheses and study variables (pp. 98 – 119
 
 Chapter 10: Understanding quantitative research design (pp. 192 – 200 [up to the end of the section on types of validity]). 
 
-Craig, JV & Dowding, D. (2020). Evidence-Based Practice in Nursing (4th ed.) Churchill Livingstone Elsevier.
+Craig, JV & Dowding, D. (2020). Evidence-Based Practice in Nursing (4th ed. ) Churchill Livingstone Elsevier.
 
 Chapter 5: Using evidence from quantitative studies.
 

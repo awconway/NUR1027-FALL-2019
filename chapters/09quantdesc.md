@@ -94,7 +94,7 @@ The purpose of undertaking a descriptive study with a survey design is to gain i
 
 <qu>Unfortunately, confidence intervals are not always reported in publications. For example, even in the International Journal of Nursing Studies (highest ranked journal in the field), in a survey of nursing and midwifery practice for maintenace of vascular access device patency, confidence intervals were **not reported**. The publication is presented below.</qu>
 
-<iframe src="https://www.aaronconway.info/web/viewer.html?file=%2FNUR1027/keogh_flushing.pdf" width="100%" height="1050px"></iframe>
+<iframe src="https://awconway.github.io/web/viewer.html?file=%2FNUR1027/keogh_flushing.pdf" width="100%" height="1050px"></iframe>
 
 <br><br>
 
