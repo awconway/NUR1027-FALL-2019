@@ -71,3 +71,9 @@ yarn-error.log
 # Yarn Integrity file
 .yarn-integrity
 .Rproj.user
+.idea/$CACHE_FILE$
+.idea/misc.xml
+.idea/modules.xml
+.idea/NUR1027-FALL-2019.iml
+.idea/vcs.xml
+.idea/.gitignore
