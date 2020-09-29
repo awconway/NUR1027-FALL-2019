@@ -28,12 +28,11 @@ Having already explored the idea of evidence-informed practice and knowledge tra
 A webinar on searching for evidence will be presented by the faculty librarian,
 Mikaela Gray.
 
-[Link](https://ca.bbcollab.com/guest/6854abe806c84600ba949111276d60c9) to
-webinar on BB Collaborate for September 22 at 12md.
+<!-- [Link](https://ca.bbcollab.com/guest/6854abe806c84600ba949111276d60c9) to
+webinar on BB Collaborate for September 22 at 12md. -->
 
-<!--
-<iframe src="https://ca-lti.bbcollab.com/recording/46b1bc3f2e704233bc01a7ebfa17f4e2" width="100%" height="550px" allowfullscreen></iframe>
--->
+<iframe src="https://ca-lti.bbcollab.com/recording/c73ef17b89a443e092377d25811ffe81" width="100%" height="550px" allowfullscreen></iframe>
+
 </exercise>
 
 <exercise id="3" title="Structured searching modules">
