@@ -33,6 +33,9 @@ webinar on BB Collaborate for September 22 at 12md. -->
 
 <iframe src="https://ca-lti.bbcollab.com/recording/c73ef17b89a443e092377d25811ffe81" width="100%" height="550px" allowfullscreen></iframe>
 
+The slidedeck from the webinar can be downloaded
+<a href="https://q.utoronto.ca/courses/161379/files/9149146/download" >here</a>.
+
 </exercise>
 
 <exercise id="3" title="Structured searching modules">
