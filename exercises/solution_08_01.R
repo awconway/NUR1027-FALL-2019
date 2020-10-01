@@ -1,1 +1,1 @@
-filps <- rbinom(10000,10,0.3)
+flips <- rbinom(10000, 10, 0.3)
