@@ -1,1 +1,1 @@
-flips <- rbinom(___,1,___)
+rbinom(___,1,___)
