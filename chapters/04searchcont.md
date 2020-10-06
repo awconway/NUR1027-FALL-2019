@@ -138,16 +138,14 @@ literature - screening through the results of the search!
 
 <exercise id="7" title="Using Covidence to manage search results">
 
-This is not a requirement, but you can attend a brief webinar on how to use
-_Covidence_ to manage the process of selecting which of the articles returned
-from a literature search are relevant to your question.
+This is not a requirement, but you can attend/watch a brief webinar on how to
+use _Covidence_ to manage the process of selecting which of the articles
+returned from a literature search are relevant to your question.
 
-[Link](https://ca.bbcollab.com/guest/d1c42ab7fce144f783e2832893777727) to
-webinar on BB Collaborate for October 6th at 12md.
+<!-- [Link](https://ca.bbcollab.com/guest/d1c42ab7fce144f783e2832893777727) to
+webinar on BB Collaborate for October 6th at 12md. -->
 
-<!--
-<iframe src="https://ca-lti.bbcollab.com/recording/9aa4fe76b82b4e5db1eaf865f5b9aa40" width="100%" height="550px" allowfullscreen></iframe>
--->
+<iframe src="https://ca-lti.bbcollab.com/recording/ccd50f0832c14079a6c28883f2bd6168" width="100%" height="550px" allowfullscreen></iframe>
 
 <qu>Click
 <a href="https://onesearch.library.utoronto.ca/linkit/covidence">here</a> to
