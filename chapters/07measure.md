@@ -202,7 +202,7 @@ of the TROOPS tool - one component is for airway complications and one is for
 sedation quality. Let's now take a look at each.
 
 <qu>Use the `dplyr::glimpse` function to inspect the dataframes by inserting
-their names in place of the dotted lines, then press 'Run Code`</qu>
+their names in place of the dotted lines, then press 'Submit`</qu>
 
 <codeblock id="07_03">
 
