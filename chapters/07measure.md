@@ -426,6 +426,11 @@ measurements that were taken for each participant in the study.</qu>
 <codeblock id="07_09">
 The icc calculated in the last exercise was 0.74. Head back to the plot we made for the names of the timepoints that temperature was measured.
 </codeblock>
+
+<result>
+<img src="7-09.png" />
+</result>
+
 </exercise>
 
 <exercise id="19" title="Validity" type="slides">
