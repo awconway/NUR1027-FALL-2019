@@ -1,13 +1,13 @@
 ---
-title: 'Week 12: Qualitative Description'
+title: 'Week 11: Qualitative Description'
 description:
   'We continue our exploration of qualitative research by examining qualitative
   descriptive research. It is a design that is commonly used in nursing and
   health sciences research.'
-prev: /11qualcrit
-next: null
+prev: /10qualdata
+next: /11qualcrit
 type: chapter
-id: 13
+id: 12
 ---
 
 <exercise id="1" title="Introduction">
@@ -480,35 +480,7 @@ for meeting credibility than more positivistic approaches.
 
 </exercise>
 
-<exercise id="11" title="Learning Activity">
-
-Consider the following questions as you read these example studies that used
-qualiative descriptive designs:
-
-- [A Qualitative Descriptive Study of the Work of Adherence to a Chronic Heart Failure Regimen: Patient and Physician Perspectives](https://journals.lww.com/jcnjournal/fulltext/2009/07000/a_qualitative_descriptive_study_of_the_work_of.9.aspx)
-- [Canadian adolescent mothers’ perceptions of influences on breastfeeding decisions: a qualitative descriptive study](https://bmcpregnancychildbirth.biomedcentral.com/articles/10.1186/1471-2393-12-149)
-
-## Are the findings valid?
-
-1. Is the research question clear and adequately substantiated?
-2. Is the design appropriate for the research question?
-3. Was the method of sampling appropriate for the research question and design?
-4. Were data collected and managed systematically?
-5. Were the data analysed appropriately?
-
-## What are the findings?
-
-1. Is the description of findings thorough?
-
-## How can I apply the findings to patient care?
-
-1. What meaning and relevance does the study have for my practice?
-2. Does the study help me understand the context of my practice?
-3. Does the study enhance my knowledge about my practice?
-
-</exercise>
-
-<exercise id="12" title="Readings">
+<exercise id="11" title="Readings">
 
 _Required Reading_
 
@@ -542,5 +514,17 @@ http://resolver.scholarsportal.info.myaccess.library.utoronto.ca/resolve/1049732
 Russell, C.K. & Gregory, D.M. (2003). Evaluation of qualitative research
 studies. Evidence Based Nursing, 6, 36-40.
 http://link.galegroup.com/apps/doc/A99696141/AONE?u=utoronto_main&sid=AONE&xid=e6042f22
+
+</exercise>
+
+
+<exercise id="12" title="Discussion">
+
+<a target="_parent" href="https://q.utoronto.ca/courses/161379/discussion_topics/">Link
+to discussions on Quercus</a>
+
+<qu>Note: If you are viewing this on the 'Student' mobile app, it is better to
+navigate back to the discussion section through the app rather than clicking on
+the link above.</qu>
 
 </exercise>
