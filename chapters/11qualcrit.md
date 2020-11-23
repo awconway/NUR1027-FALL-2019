@@ -3,7 +3,7 @@ title: 'Week 12: Critical appraisal of qualitative methods'
 description:
   'This is an introduction to qualitative research methodology used in health
   sciences.'
-prev: 12qualdesc
+prev: /12qualdesc
 next: null
 type: chapter
 id: 13

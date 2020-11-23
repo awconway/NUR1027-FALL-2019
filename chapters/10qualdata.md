@@ -4,7 +4,7 @@ description:
   'This is an introduction to qualitative research methodology used in health
   sciences.'
 prev: /09quantdesc
-next: /11qualcrit
+next: /12qualdesc
 type: chapter
 id: 11
 ---
