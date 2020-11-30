@@ -4,7 +4,7 @@ description:
   'We continue our exploration of qualitative research by examining qualitative
   descriptive research. It is a design that is commonly used in nursing and
   health sciences research.'
-prev: /10qualdata
+prev: /10qualdat
 next: /11qualcrit
 type: chapter
 id: 12
