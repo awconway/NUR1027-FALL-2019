@@ -554,18 +554,17 @@ theoretically should not be related to the construct in question.</qu>
 
 **Relevant chapters on measurement from your text for your reference**
 
-Gray, J.R., Grove, S.K. & Sutherland, S. (2017). The Practice of Nursing
-Research (8th ed.)
+Gray, J.R., & Grove, S.K. (2021). The Practice of Nursing
+Research (9th ed.)
 
-- Chapter 16: Measurement concepts (pp. 363 - 393).
-- Chapter 17: Measurement methods used in developing evidence-based practice
-  (pp. 411-430).
+- Chapter 16: Measurement concepts.
+- Chapter 17: Measurement methods used in developing evidence-based practice.
 
 </exercise>
 
 <exercise id="24" title="Discussion">
 
-<a target="_parent" href="https://q.utoronto.ca/courses/161379/discussion_topics/">Link
+<a target="_parent" href="https://q.utoronto.ca/courses/227089/discussion_topics/">Link
 to discussions on Quercus</a>
 
 <qu>Note: If you are viewing this on the 'Student' mobile app, it is better to

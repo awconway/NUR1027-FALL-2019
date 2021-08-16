@@ -298,7 +298,7 @@ Below are some advantages and disadvantages of this type of design.
 </table>
 
 <qu>Correlational designs have sometimes been categorised as 'simple',
-'predictive' and 'theoretical' (Gray et al., 2017). We will focus on the
+'predictive' and 'theoretical' (Gray et al., 2021). We will focus on the
 'simple' correlational design. Data is collected in correlational designs either
 prospectively or retrospectively, without attempts to manipulate conditions by
 researchers.</qu>
@@ -469,11 +469,11 @@ to consider the following:
 
 The relevant chapters of the textbook for your reference include:
 
-Gray, J.R., Grove, S.K. & Sutherland, S. (2017). The Practice of Nursing
-Research (8th ed.)
+Gray, J.R., & Grove, S.K. (2021). The Practice of Nursing
+Research (9th ed.)
 
-- Chapter 10: Descriptive research and its designs (pp. 200 – 204.)
-- Chapter 10: Correlational designs (pp. 209– 212.)
+- Chapter 10: Descriptive designs
+- Chapter 10: Correlational designs
 
 </exercise>
 

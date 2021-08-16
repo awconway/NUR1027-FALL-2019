@@ -57,7 +57,7 @@ Craig, JV & Smyth, RL. (2012). The Evidence-based Practice Manual for Nurses (3r
 
 *Note: Unfortunately, the latest edition of this text will not be published until October 2019, which means we will not be able to use it for the course this semester.*
 
-Gray, J.R., Grove, S.K. & Sutherland, S.  (2017). The Practice of Nursing Research (8th ed.) St. Louis Missouri: Elsevier. 
+Gray, J.R., & Grove, S.K.  (2021). The Practice of Nursing Research (9th ed.) St. Louis Missouri: Elsevier. 
 
 Textbooks can be purchased in person at the U of T Bookstore (214 College St.) or ordered online through the <a href="http://www.uoftbookstore.com/">bookstore</a>.
 

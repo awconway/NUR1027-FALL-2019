@@ -112,7 +112,7 @@ To bring everything together, you may like to read through this <a href="https:/
 
 *Required*
 
-Gray, J.R., Grove, S.K. & Sutherland, S.  (2017). The Practice of Nursing Research (8th ed.) Chapter 2: Evolution of research in building evidence-based nursing practice (Review the section on “Methodologies for developing Research Evidence in Nursing” pp. 25 - 27).
+Gray, J.R., & Grove, S.K.  (2021). The Practice of Nursing Research (9th ed.) Chapter 2: Evolution of research in building evidence-based nursing practice (Review the section on “Methodologies for developing Research Evidence in Nursing”).
 
 
 </exercise>
@@ -128,7 +128,7 @@ In this week’s readings, you have encountered the different ways major approac
 - Think back to the practice question you developed in Week 3. Which paradigm does your question fit into? Why?
 
 
-<a target="_parent" href="https://q.utoronto.ca/courses/161379/discussion_topics/">Link to discussions on Quercus</a>
+<a target="_parent" href="https://q.utoronto.ca/courses/227089/discussion_topics/">Link to discussions on Quercus</a>
 
 <qu>Note: If you are viewing this on the 'Student' mobile app, it is better to navigate back to the discussion section through the app rather than clicking on the link above.</qu>
 

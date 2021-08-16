@@ -379,14 +379,13 @@ quantitative research report?
 
 **Required Reading**
 
-Gray, J.R., Grove, S.K. & Sutherland, S. (2017). The Practice of Nursing
-Research (8th ed.) Chapter 3: Introduction to quantitative research (pp. 37 --45
-[up to the end of the section on control vs. comparison groups].
+Gray, J.R., & Grove, S.K. (2021). The Practice of Nursing
+Research (9th ed.) 
+- Chapter 3: Introduction to quantitative research (just 'Methods for quantitative research' and 'Defining terms relevant to quantitative research').
 
-Chapter 6: Objectives, questions, hypotheses and study variables (pp. 98 – 119.)
+- Chapter 6: Objectives, questions, hypotheses and study variables.
 
-Chapter 10: Understanding quantitative research design (pp. 192 – 200 [up to the
-end of the section on types of validity]).
+- Chapter 10: Understanding quantitative research design (up to the end of the 'Design validity' section).
 
 Craig, JV & Dowding, D. (2020). Evidence-Based Practice in Nursing (4th ed. )
 Churchill Livingstone Elsevier.

@@ -48,7 +48,7 @@ For this week, I invite you to:
 
 [Whittemore, R., Chase, SK, & Mandle, CL (2001). Validity in qualitative research. Qualitative Health Research, 11(4), 522-37.](https://journals-sagepub-com.myaccess.library.utoronto.ca/doi/abs/10.1177/104973201129119299)
 
-This <a href="https://q.utoronto.ca/courses/161379/files/8635488/download" >handout</a> outlines the criteria for rigour in a qualitative study suggested by Whittemore et al (2001).
+This <a href="https://q.utoronto.ca/courses/227089/files/15197302/download" >handout</a> outlines the criteria for rigour in a qualitative study suggested by Whittemore et al (2001).
 
 [Jacobson, D., & Mustafa, N. (2019). Social identity map: A reflexivity tool for practicing explicit positionality in critical qualitative research. International Journal of Qualitative Methods. doi:10.1177/1609406919870075](https://journals-sagepub-com.myaccess.library.utoronto.ca/doi/full/10.1177/1609406919870075?utm_source=summon&utm_medium=discovery-provider)
 
@@ -61,6 +61,6 @@ This <a href="https://q.utoronto.ca/courses/161379/files/8635488/download" >hand
 to link to the podcast
 
 :book: Download a copy of the slides
-[here](https://q.utoronto.ca/courses/161379/files/8635483/download)
+[here](https://q.utoronto.ca/courses/227089/files/15197308/download)
 
 </exercise>

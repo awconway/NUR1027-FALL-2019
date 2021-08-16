@@ -21,12 +21,13 @@ View the recording presented by Danielle Just.
 
 **Required**
 
-Gray, J.R., Grove, S.K. & Sutherland, S. (2017). The Practice of Nursing
-Research (8th ed.)
+Gray, J.R., & Grove, S.K. (2021). The Practice of Nursing
+Research (9th ed.)
 
-- Chapter 12: Qualitative research methods (pp. 255 – 283.)
+- Chapter 12: Qualitative research methods.
 - Chapter 15: Nonprobability sampling methods commonly applied in qualitative
-  research (pp. 342 - 347); Sample size in qualitative research (pp. 351 – 353).
+  and mixed methods research.
+- Chapter 15: Sample size in qualitative research.
 
 <a href="https://onlinelibrary-wiley-com.myaccess.library.utoronto.ca/doi/epdf/10.1111/j.1753-6405.2007.00141.x">Green,
 J., Willis, K., Hughes, E., Small, R., Welch, N., Gibbs, L. & Daly, J. (2007).
@@ -62,7 +63,7 @@ J. M. (2015). Data were saturated. Qualitative Health Research, 25(5),
 
 <exercise id="3" title="Discussion">
 
-<a target="_parent" href="https://q.utoronto.ca/courses/161379/discussion_topics/">Link
+<a target="_parent" href="https://q.utoronto.ca/courses/227089/discussion_topics/">Link
 to discussions on Quercus</a>
 
 <qu>Note: If you are viewing this on the 'Student' mobile app, it is better to

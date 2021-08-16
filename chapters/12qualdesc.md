@@ -520,7 +520,7 @@ http://link.galegroup.com/apps/doc/A99696141/AONE?u=utoronto_main&sid=AONE&xid=e
 
 <exercise id="12" title="Discussion">
 
-<a target="_parent" href="https://q.utoronto.ca/courses/161379/discussion_topics/">Link
+<a target="_parent" href="https://q.utoronto.ca/courses/227089/discussion_topics/">Link
 to discussions on Quercus</a>
 
 <qu>Note: If you are viewing this on the 'Student' mobile app, it is better to

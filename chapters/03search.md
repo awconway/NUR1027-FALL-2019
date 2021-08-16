@@ -28,13 +28,12 @@ Having already explored the idea of evidence-informed practice and knowledge tra
 A webinar on searching for evidence will be presented by the faculty librarian,
 Mikaela Gray.
 
-<!-- [Link](https://ca.bbcollab.com/guest/6854abe806c84600ba949111276d60c9) to
-webinar on BB Collaborate for September 22 at 12md. -->
+🗓 Scheduled for 28th September at 12md.
 
-<iframe src="https://ca-lti.bbcollab.com/recording/c73ef17b89a443e092377d25811ffe81" width="100%" height="550px" allowfullscreen></iframe>
+<!-- <iframe src="https://ca-lti.bbcollab.com/recording/c73ef17b89a443e092377d25811ffe81" width="100%" height="550px" allowfullscreen></iframe>
 
 The slidedeck from the webinar can be downloaded
-<a href="https://q.utoronto.ca/courses/161379/files/9149146/download" >here</a>.
+<a href="https://q.utoronto.ca/courses/227089/files/15197306/download" >here</a>. -->
 
 </exercise>
 
@@ -82,10 +81,10 @@ Churchill Livingstone Elsevier.
 
 _Additional_
 
-Gray, J.R., Grove, S.K. & Sutherland, S. (2017). The Practice of Nursing
-Research (8th ed.)
+Gray, J.R., & Grove, S.K. (2021). The Practice of Nursing
+Research (9th ed.)
 
-- Chapter 7: Review of relevant literature (pp. 120 – 137).
+- Chapter 7: Review of relevant literature.
 
 </exercise>
 
@@ -110,7 +109,7 @@ in your group on the discussion board in Quercus:
 
 Remember to respond to one of your peer’s posts!
 
-<a target="_parent" href="https://q.utoronto.ca/courses/161379/discussion_topics/">Link
+<a target="_parent" href="https://q.utoronto.ca/courses/227089/discussion_topics/">Link
 to discussions on Quercus</a>
 
 <qu>Note: If you are viewing this on the 'Student' mobile app, it is better to

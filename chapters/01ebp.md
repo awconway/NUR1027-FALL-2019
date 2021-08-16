@@ -146,8 +146,8 @@ earlier, evidence hierarchies seldom tell the whole story. A systematic review
 that combined the results of many small randomized controlled trials, which each
 had limitations in the way they carried out important elements of study
 procedures such as the randomization procedure and concealment of assigned
-interventions from participants and outcome assesors, would not provide as
-important information as a, rigorously conducted single randomized controlled
+interventions from participants and outcome assessors, would not provide as
+important information as a rigorously conducted single randomized controlled
 trial - despite the fact that it is 'lower' down on an evidence hierarchy such
 as that pictured below.
 
@@ -156,7 +156,7 @@ as that pictured below.
 
 # GRADE
 
-<p>All research generates evidence. However, not all evidence is the same, and it is important that the best evidence is used in nursing and midwifery practice. To that end, an internationally recognised approach known as <a href="http://www.gradeworkinggroup.org/">GRADE</a> (which stands for Grading of Recommendations Assessment, Development and Evaluation) is recommended as the standard in clinical guideline development. The GRADE system is also used in <a href="https://www.cochrane.org">Cochrane Collaboration</a> systematic reviews to grade the quality of evidence. This system of grading the quality of evidence updates earlier advice that used only research design considerations for evidence grading. By contrast, the GRADE approach involves rating the quality of evidence for each outcome along a continuum of very low, low, moderate or high quality.</p>
+<p>All research generates evidence. However, not all evidence is the same, and it is important that the best evidence is used in nursing and midwifery practice. To that end, an internationally recognized approach known as <a href="http://www.gradeworkinggroup.org/">GRADE</a> (which stands for Grading of Recommendations Assessment, Development and Evaluation) is recommended as the standard in clinical guideline development. The GRADE system is also used in <a href="https://www.cochrane.org">Cochrane Collaboration</a> systematic reviews to grade the quality of evidence. This system of grading the quality of evidence updates earlier advice that used only research design considerations for evidence grading. By contrast, the GRADE approach involves rating the quality of evidence for each outcome along a continuum of very low, low, moderate or high quality.</p>
 <p style="text-align: center;"><strong><span>Table 1 Explanations for interpreting level of evidence</span></strong></p>
 <table style="margin-left: auto; margin-right: auto;"></table>
 <table class="ic-Table ic-Table--hover-row">
@@ -298,10 +298,11 @@ Pediatric Nursing, 30(4), 165-182.</a>
 J. (2012). Thoughts about evidence-based nursing practice. Nursing Science
 Quarterly, 25(2). 199-200.</a>
 
-Gray, J.R., Grove, S.K. & Sutherland, S. (2017). The Practice of Nursing
-Research (8th ed.) Chapter 1: Discovering the world of nursing research (pp. 1 -
-17). Chapter 2: Evolution of research in building evidence-based nursing
-practice (pp. 18 – 36).
+Gray, J.R., & Grove, S.K. (2021). The Practice of Nursing
+Research (9th ed.) 
+- Chapter 1: Discovering the world of nursing research. 
+- Chapter 2: Evolution of research in building evidence-based nursing
+practice.
 
 <a href="http://www.nets.nihr.ac.uk/programmes/hsdr">The Health Services and
 Delivery Research (HS&DR) Programme from the National institutes of Health
@@ -338,7 +339,7 @@ referencing for evidence cited in your posts, as this is what will be expected
 of you in the written assignments also. You are also required to respond to at
 least one of your peer's posts.
 
-<a target="_parent" href="https://q.utoronto.ca/courses/161379/discussion_topics/">Link
+<a target="_parent" href="https://q.utoronto.ca/courses/227089/discussion_topics/">Link
 to discussions on Quercus</a>
 
 <qu>Note: If you are viewing this on the 'Student' mobile app, it is better to

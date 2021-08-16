@@ -542,8 +542,8 @@ know that.
 **Relevant chapters on statistics from your text for your reference (not
 required reading)**
 
-Gray, J.R., Grove, S.K. & Sutherland, S. (2017). The Practice of Nursing
-Research (8th ed.)
+Gray, J.R., & Grove, S.K. (2021). The Practice of Nursing
+Research (9th ed.)
 
 - Chapter 21: Introduction to Statistical Analysis
 - Chapter 22: Using Statistics to Describe Variables
@@ -555,7 +555,7 @@ Research (8th ed.)
 
 <exercise id="27" title="Discussion">
 
-<a target="_parent" href="https://q.utoronto.ca/courses/161379/discussion_topics/">Link
+<a target="_parent" href="https://q.utoronto.ca/courses/227089/discussion_topics/">Link
 to discussions on Quercus</a>
 
 <qu>Note: If you are viewing this on the 'Student' mobile app, it is better to

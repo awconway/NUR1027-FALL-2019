@@ -30,8 +30,7 @@ essential requirement for using evidence to inform nursing practice.
 At this point you may wish to first review some of the information first
 presented last week, by referring back to Chapters 2 and 3 from 'The
 Evidence-based Practice Manual for Nurses' (Craig, JV & Smyth, RL, 2012) or
-Chapter 7 of 'The Practice of Nursing Research' (Gray, J.R., Grove, S.K. &
-Sutherland, S., 2017).
+Chapter 7 of 'The Practice of Nursing Research' (Gray, J.R., & Grove, S.K., 2021).
 
 <qu>This
 <a href="https://www-jstor-org.myaccess.library.utoronto.ca/stable/25684570?seq=1#metadata_info_tab_contents">paper</a>
@@ -128,7 +127,7 @@ the end of a word.
 
 In the previous exercises we have practiced refining a search strategy using the
 pubmed database. It is important to remember that there are differences between
-databases in regard to wildcacrd operators, adjacency operators, search tags and
+databases in regard to wildcard operators, adjacency operators, search tags and
 filters. So careful consideration of this needs to be taken when searching
 multiple databases. In the next section, I'm going to be introducing you to a
 tool that can help you manage the next step of the process in searching the
@@ -171,7 +170,7 @@ assigned group on the discussion board:
 
 **Remember to respond to one of your peer’s posts!**
 
-<a target="_parent" href="https://q.utoronto.ca/courses/161379/discussion_topics/">Link
+<a target="_parent" href="https://q.utoronto.ca/courses/227089/discussion_topics/">Link
 to discussions on Quercus</a>
 
 <qu>Note: If you are viewing this on the 'Student' mobile app, it is better to
