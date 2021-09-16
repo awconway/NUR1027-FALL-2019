@@ -304,11 +304,6 @@ Research (9th ed.)
 - Chapter 2: Evolution of research in building evidence-based nursing
 practice.
 
-<a href="http://www.nets.nihr.ac.uk/programmes/hsdr">The Health Services and
-Delivery Research (HS&DR) Programme from the National institutes of Health
-Research Evaluation, Trials and Studies programme in the UK funds research
-relevant to health services organization and delivery.</a>
-
 <a href="https://journals-scholarsportal-info.myaccess.library.utoronto.ca/pdf/02779536/v62i0011/2633_afenoeim.xml">Lambert,
 H. (2006). Accounting for EBM: notions of evidence in medicine. Social Science &
 Medicine, 62, 2733-45.</a>
