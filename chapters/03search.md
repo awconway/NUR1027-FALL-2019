@@ -30,6 +30,8 @@ Mikaela Gray.
 
 🗓 Scheduled for 28th September at 12md.
 
+Join the webinar [here](https://utoronto.zoom.us/j/86741678195).
+
 <!-- <iframe src="https://ca-lti.bbcollab.com/recording/c73ef17b89a443e092377d25811ffe81" width="100%" height="550px" allowfullscreen></iframe>
 
 The slidedeck from the webinar can be downloaded
