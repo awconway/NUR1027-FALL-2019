@@ -25,17 +25,19 @@ Having already explored the idea of evidence-informed practice and knowledge tra
 
 <exercise id="2" title="Webinar">
 
-A webinar on searching for evidence will be presented by the faculty librarian,
-Mikaela Gray.
+<!-- A webinar on searching for evidence will be presented by the faculty librarian,
+Mikaela Gray. -->
 
-🗓 Scheduled for 28th September at 12md.
+<!-- 🗓 Scheduled for 28th September at 12md. -->
 
-Join the webinar [here](https://utoronto.zoom.us/j/86741678195).
+<!-- Join the webinar [here](https://utoronto.zoom.us/j/86741678195). -->
+  
+ 🎥 View the webinar [here](https://play.library.utoronto.ca/watch/65d98e8e1b42dad20a9139dfbb2450d0).
 
-<!-- <iframe src="https://ca-lti.bbcollab.com/recording/c73ef17b89a443e092377d25811ffe81" width="100%" height="550px" allowfullscreen></iframe>
+<!-- <iframe src=https://play.library.utoronto.ca/embed/65d98e8e1b42dad20a9139dfbb2450d0" width="100%" height="550px" allowfullscreen></iframe> -->
 
 The slidedeck from the webinar can be downloaded
-<a href="https://q.utoronto.ca/courses/227089/files/15197306/download" >here</a>. -->
+<a href="https://q.utoronto.ca/courses/227089/files/16142968/download" >here</a>.
 
 </exercise>
 
