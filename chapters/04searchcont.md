@@ -135,25 +135,7 @@ literature - screening through the results of the search!
 
 </exercise>
 
-<exercise id="7" title="Using Covidence to manage search results">
-
-This is not a requirement, but you can attend/watch a brief webinar on how to
-use _Covidence_ to manage the process of selecting which of the articles
-returned from a literature search are relevant to your question.
-
-<!-- [Link](https://ca.bbcollab.com/guest/d1c42ab7fce144f783e2832893777727) to
-webinar on BB Collaborate for October 6th at 12md. -->
-
-<iframe src="https://ca-lti.bbcollab.com/recording/ccd50f0832c14079a6c28883f2bd6168" width="100%" height="550px" allowfullscreen></iframe>
-
-<qu>Click
-<a href="https://onesearch.library.utoronto.ca/linkit/covidence">here</a> to
-access instructions for setting up a Covidence account through the University of
-Toronto.</qu>
-
-</exercise>
-
-<exercise id="8" title="Discussion board">
+<exercise id="7" title="Discussion board">
 
 This week you will each practice implementing your search strategy in indexed
 databases. Using the search terms you identified in Week 3, conduct a search in
