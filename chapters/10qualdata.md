@@ -10,9 +10,8 @@ id: 11
 ---
 
 <exercise id="1" title="Lecture recording">
-
-🧑‍💻 In progress 
-<!-- <iframe src="https://voicethread.com/share/13256688/" width="100%" height="550px" allowfullscreen></iframe> -->
+ 
+<iframe src=""https://player.vimeo.com/video/635236174?h=3272fc5cab&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"" width="100%" height="550px" allowfullscreen></iframe>
 
 </exercise>
 
