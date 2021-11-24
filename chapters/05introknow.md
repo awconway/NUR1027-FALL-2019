@@ -103,7 +103,7 @@ Figure source: [The Use of Digital Analytics for Measuring and Optimizing Digita
 
 That brings to an end the summary of important concepts around research paradigms that I wanted to introduce you to this week :raised_hands:
 
-To bring everything together, you may like to read through this <a href="https://pdfs.semanticscholar.org/b0c7/fcfee6ef80993ef8344453a9ed8c905200da.pdf">paper</a>. It includes illustrative examples from nursing researchers about their thought processes in choosing a research paradigm and how their final decision then informed each component of the design of their studies, including the methodology and methods. 
+To bring everything together, you may like to read through this <a href="https://faculty.ksu.edu.sa/sites/default/files/linking_aims_paradigm_and_method_in_nursing_resrach_.pdf">paper</a>. It includes illustrative examples from nursing researchers about their thought processes in choosing a research paradigm and how their final decision then informed each component of the design of their studies, including the methodology and methods. 
 
 </exercise>
 
