@@ -43,7 +43,7 @@
         "react-tooltip": "^4.2.10",
         "rehype-react": "^3.1.0",
         "remark-react": "^5.0.1",
-        "reveal.js": "^3.8.0"
+        "reveal.js": "^4.3.0"
     },
     "scripts": {
         "build": "gatsby build",
