@@ -3,7 +3,7 @@ title: 'Statistical Testing in Research and Critical Appraisal'
 description:
   'Introduction to understanding statistical analysis in quantitative research.'
 prev: /07measure
-next: /09quantdesc
+next: /
 type: chapter
 id: 3
 ---
