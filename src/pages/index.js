@@ -20,12 +20,12 @@ export default ({ data }) => {
             <section>
                 <h1 className={classes.subtitle}>Integrated Approaches to Research Appraisal and Utilization, Part 1</h1>
                 <div className={classes.introduction}>
-                <p>
-                    Hello! Welcome to NUR1027. This webpage will house weekly presentations of course content, interspersed with learning activities.
+                {/* <p>
+                    Hello! Welcome to NUR1027. This webpage will house presentations of course content, interspersed with learning activities.
                 </p>
                 <p>
                     Now let's get started!
-                </p>
+                </p> */}
                 </div>
             </section>
             {chapters.map(({ slug, title, description }) => (

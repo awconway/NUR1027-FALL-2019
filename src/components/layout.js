@@ -62,7 +62,7 @@ const Layout = ({ isHome, title, description, children }) => {
                             </div>
 
                             <footer className={classes.footer}>
-                                <div className={classes.footerContent}>
+                                {/* <div className={classes.footerContent}>
                                     <section className={classes.footerSection}>
                                         <H3>About this course</H3>
                                         <p>{meta.description}</p>
@@ -90,7 +90,7 @@ const Layout = ({ isHome, title, description, children }) => {
                                             ))}
                                         </ul>
                                     )}
-                                </div>
+                                </div> */}
                             </footer>
                         </main>
                     </>

@@ -1,12 +1,12 @@
 ---
-title: 'Week 7: Measurement in research'
+title: 'Measurement in quantitative research'
 description:
   'Important concepts in understanding the importance of measurement in
   quantitative research.'
 prev: /06quant
 next: /08stats
 type: chapter
-id: 8
+id: 2
 ---
 
 <exercise id="1" title="Introduction" type="slides">
@@ -550,7 +550,7 @@ theoretically should not be related to the construct in question.</qu>
 <iframe src="https://player.vimeo.com/video/368807663" width="100%" height="480" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 </exercise>
 
-<exercise id="23" title="Reading">
+<!-- <exercise id="23" title="Reading">
 
 **Relevant chapters on measurement from your text for your reference**
 
@@ -571,4 +571,4 @@ to discussions on Quercus</a>
 navigate back to the discussion section through the app rather than clicking on
 the link above.</qu>
 
-</exercise>
+</exercise> -->

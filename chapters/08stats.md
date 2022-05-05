@@ -1,11 +1,11 @@
 ---
-title: 'Week 8: Statistical Testing in Research and Critical Appraisal'
+title: 'Statistical Testing in Research and Critical Appraisal'
 description:
   'Introduction to understanding statistical analysis in quantitative research.'
 prev: /07measure
 next: /09quantdesc
 type: chapter
-id: 9
+id: 3
 ---
 
 <exercise id="1" title="Introduction" type="slides">
@@ -323,10 +323,10 @@ variables from our null hypothesis in the code block below to:
 1. Find out the mean difference in 'Bodily Pain' scores between depressed and
    non-depressed heart transplant recipients **in our sample**;
 
-1. Visualise a null distribution of differences in mean 'Bodily Pain' scores
+2. Visualise a null distribution of differences in mean 'Bodily Pain' scores
    where there is _no_ association between depression and pain;
 
-1. Calculate a p-value for the mean difference between groups **from our
+3. Calculate a p-value for the mean difference between groups **from our
    sample**.
 
 (Don't be alarmed by all the code - all you have to do is replace the dotted
@@ -537,7 +537,7 @@ know that.
 
 </exercise>
 
-<exercise id="26" title="Reading">
+<!-- <exercise id="26" title="Reading">
 
 **Relevant chapters on statistics from your text for your reference (not
 required reading)**
@@ -562,4 +562,4 @@ to discussions on Quercus</a>
 navigate back to the discussion section through the app rather than clicking on
 the link above.</qu>
 
-</exercise>
+</exercise> -->

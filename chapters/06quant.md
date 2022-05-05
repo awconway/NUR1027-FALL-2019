@@ -1,14 +1,14 @@
 ---
-title: 'Week 6: Quantitative Approaches to Research'
+title: 'Quantitative Approaches to Research'
 description:
   'This week we look at how positivist/post-positivist views have shaped
   knowledge production through quantitative research approaches. We will
   consider how these fundamental beliefs about knowledge and truth are reflected
   in the criteria used to define, conduct and appraise quantitative research.'
-prev: /05introknow
+prev: /
 next: /07measure
 type: chapter
-id: 7
+id: 1
 ---
 
 <exercise id="1" title="Introduction" type="slides">
@@ -338,7 +338,7 @@ Which study used systematic sampling?
 
 </exercise>
 
-<exercise id="12" title="Learning activity">
+<!-- <exercise id="12" title="Learning activity">
 
 There will be no online discussion this week. Please read the article and
 consider the following critical appraisal and reflection questions.
@@ -373,8 +373,8 @@ quantitative research report?
 
 <iframe src="https://awconway.github.io/web/viewer.html?file=%2FNUR1027/reed_physical_activity.pdf" width="100%" height="1050px"></iframe>
 
-</exercise>
-
+</exercise> -->
+<!-- 
 <exercise id="13" title="Reading">
 
 **Required Reading**
@@ -400,4 +400,4 @@ Read sections 8.1, 8.2, and 8.4 on bias (Version 5.1 online).
 [Fineout-Overholt, E., Melnyk, B., Stillwell, S., & Williamson, K. (2010). Critical appraisal of the evidence: Part I. American Journal of Nursing, 110(7), 47-52.](http://simplelink.library.utoronto.ca/url.cfm/114802)
 [Fineout-Overholt, E., Melnyk, B., Stillwell, S., & Williamson, K. (2010). Critical appraisal of the evidence: Part II. American Journal of Nursing, 110(9), 41-48.](http://simplelink.library.utoronto.ca/url.cfm/114803)
 
-</exercise>
+</exercise> -->
